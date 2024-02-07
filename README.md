@@ -10,7 +10,7 @@ TEAM 6 - FEPA
 ************************
 Link speed code: 
 
-Link source code: https://github.com/Fadz45/ICT-602-lab8-Hardware
+Link source code: [https://github.com/Fadz45/ICT-602-lab8-Hardware](https://github.com/Fadz45/ICT-602-lab8-Hardware)
 ************************
 
 ## Google Sign in
